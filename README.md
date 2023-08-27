@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [api.audio](https://api.audio) at Aflorithmic
+- 🔭 Solutions Architect at [Audiostack](https://audiostack.ai/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martin-shell/)
