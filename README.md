@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Integration Engineer at [Audiostack](https://audiostack.ai/)
+- 🔭 Solution Architect at [Audiostack](https://audiostack.ai/)
 - ⚡  Creator of [Owlie](https://chrome.google.com/webstore/detail/owlie-youtube-assistant/bfgonahdcbgiamjgenobcjbngblgidjg)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martin-shell/)
