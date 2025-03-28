@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiho 👋
 
 <!--
 **martinezpl/martinezpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Solution Architect at [Audiostack](https://audiostack.ai/)
+- ⚡  Creator of [Owlie](https://chrome.google.com/webstore/detail/owlie-youtube-assistant/bfgonahdcbgiamjgenobcjbngblgidjg)
+- 📫 How to reach me: royfish@proton.me
