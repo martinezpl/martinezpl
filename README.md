@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Solution Architect at [Audiostack](https://audiostack.ai/)
-- ⚡ [tingai.io](https://tingai.io), [Owlie](https://chrome.google.com/webstore/detail/owlie-youtube-assistant/bfgonahdcbgiamjgenobcjbngblgidjg)
+- 💡 [meetingbot](https://github.com/meetingbot/meetingbot), [tingai.io](https://tingai.io), [Owlie](https://chrome.google.com/webstore/detail/owlie-youtube-assistant/bfgonahdcbgiamjgenobcjbngblgidjg)
 - 📫 How to reach me: royfish@proton.me
