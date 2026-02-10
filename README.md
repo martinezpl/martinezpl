@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Solution Architect at [Audiostack](https://audiostack.ai/)
+- 🌱 I’m currently learning WebGL, WebRTC & pixel art
 - 💡 [tingai.io](https://tingai.io), [owlie](https://chrome.google.com/webstore/detail/owlie-youtube-assistant/bfgonahdcbgiamjgenobcjbngblgidjg), [meetingbot](https://github.com/meetingbot/meetingbot)
+
 - 📫 royfish@proton.me
