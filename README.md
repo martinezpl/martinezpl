@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Solution Architect at [Audiostack](https://audiostack.ai/)
-- 💡 [essa](https://essa.lol), [meetingbot](https://github.com/meetingbot/meetingbot)
-- 🌱 I’m currently learning WebGL, WebRTC & pixel art
 - 📫 royfish@proton.me
